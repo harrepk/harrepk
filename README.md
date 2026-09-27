@@ -10,6 +10,8 @@ I'm a Computer Engineering student at Toronto Metropolitan University who loves 
 
 - 💼 **LinkedIn:** [linkedin.com/in/harre-prakash-kumar](https://www.linkedin.com/in/harre-prakash-kumar/)
 - 📧 **Email:** [hprakash@torontomu.ca](mailto:hprakash@torontomu.ca)
+- 📄 **Resume:** [Harre Prakash Kumar Resume](https://github.com/user-attachments/files/32708420/Harre_Prakash_Kumar-Resume.pdf)
+
 
 ---
 
