@@ -23,11 +23,30 @@ I'm a Computer Engineering student at Toronto Metropolitan University who loves 
 
 ---
 
-### ⚡ Beyond the Code
-- 🏀 **On the Court:** I'm a huge basketball fan, whether I'm watching the game, checking player stats, or getting shots up at my local courts.
-- 📈 **Exploring Finance:** I love diving into financial markets, fintech trends, and investing strategies (which actually inspired my ML Financial Decision Engine project!).
-- 🏎️ **Talking Motorsports:** Being on the Formula Racing team means I'm always down to geek out over cars and F1 races.
-- 🎵 **Vibing to Music:** I run on good playlists during late-night coding sessions. Always open to music recommendations!
+### ⚙️ Engineering Experience
+
+**[MetFIRST Robotics](https://metfirst.ca/)** | *Software Engineer*  
+*Sep 2025 – Present • Toronto, ON*  
+- **Backend:** Developed Python-based backend scripts for automated data processing and system telemetry monitoring, **reducing manual analysis time by 50%**.
+- **Real-Time Systems:** Programmed bare-metal C/C++ firmware on embedded processors to execute precise control logic and manage actuator state routing.
+- **Software Infrastructure:** Integrated software systems with robust error-handling and remote embedded system debugging infrastructure to ensure system safety.
+- **Iterative Development:** Maintained systematic software versioning, documentation, and debug logs to streamline the testing and integration lifecycle.
+
+  
+**[Toronto Metropolitan Formula Racing](https://www.tmuformula.ca/)** | *Embedded Software Engineer*  
+*Sep 2025 – Present • Toronto, ON*  
+- **Embedded SW Engineering:** Engineered C/C++ firmware to process real-time sensor telemetry pipelines and execute deterministic control algorithms.
+- **Embedded Infrastructure:** Developed low-level peripheral drivers (I2C, SPI) and hardware abstraction layers (HAL) to regulate power management systems.
+- **Data Pipelines:** Built and validated full-stack data ingestion workflows for real-time sensor integration, achieving **98% data accuracy**.
+- **Systems Integration:** Coordinated software architecture decisions across interdisciplinary teams to align hardware constraints with firmware deployment targets.
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description |
+|:---:|---|
+| <a href="https://github.com/harrepk/Full-Stack-Financial-Decision-Engine"><img src="https://img.icons8.com/color/96/code.png" width="70" alt="Project Icon"><br><b>Financial Engine</b></a> | **Financial Machine Learning Pipeline**<br>Engineered a scalable full-stack software infrastructure utilizing FastAPI, Streamlit, and Scikit-Learn to deploy predictive ML models and real-time data pipelines. |
 
 ---
 
@@ -60,15 +79,17 @@ I'm a Computer Engineering student at Toronto Metropolitan University who loves 
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-323330?style=for-the-badge)
 ![SoC Architecture](https://img.shields.io/badge/SoC_Architecture-2B3A42?style=for-the-badge)
 ![Communication Protocols](https://img.shields.io/badge/I2C%20/%20UART%20/%20SPI%20/%20CAN-00599C?style=for-the-badge)
----
-
-### 🏆 Featured Projects
-
-| Project | Description |
-|:---:|---|
-| <a href="https://github.com/harrepk/Full-Stack-Financial-Decision-Engine"><img src="https://img.icons8.com/color/96/code.png" width="70" alt="Project Icon"><br><b>Financial Engine</b></a> | **Financial Machine Learning Pipeline**<br>Engineered a scalable full-stack software infrastructure utilizing FastAPI, Streamlit, and Scikit-Learn to deploy predictive ML models and real-time data pipelines. |
 
 ---
+
+### ⚡ Beyond the Code
+- 🏀 **On the Court:** I'm a huge basketball fan, whether I'm watching the game, checking player stats, or getting shots up at my local courts.
+- 📈 **Exploring Finance:** I love diving into financial markets, fintech trends, and investing strategies (which actually inspired my ML Financial Decision Engine project!).
+- 🏎️ **Talking Motorsports:** Being on the Formula Racing team means I'm always down to geek out over cars and F1 races.
+- 🎵 **Vibing to Music:** I run on good playlists during late-night coding sessions. Always open to music recommendations!
+
+---
+
 ### 📫 Let's Connect!
 
 I'm always open to chatting about software development, the latest basketball trades, or new internship opportunities.
