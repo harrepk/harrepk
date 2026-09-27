@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Harre! 👋
 
-<!--
-**harrepk/harrepk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/harrepk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=58A6FF&center=false&vCenter=false&multiline=true&width=600&height=140&lines=Computer+Engineering+Student+%40+TMU;Software+%26+Backend+Developer;Embedded+Systems+Enthusiast;Seeking+Summer+2027+Internships!" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student at Toronto Metropolitan University who loves working on machine learning projects, developing high-quality software systems, and embedded software. Whether it's writing memory-safe C/C++ code for robotics or building full-stack machine learning APIs, I enjoy creating systems that are fast, reliable, and scalable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Currently looking for Software Engineering and Embedded Software Internships for Summer 2027!**
+
+---
+
+### 🚀 What I'm Up To
+- 🤖 **Software Engineer** for the TMU MetFIRST Robotics Team, programming control logic and data processing pipelines.
+- 🏎️ **Embedded Software Member** on the TMU Formula Racing Team, writing C/C++ software for vehicles.
+- 💻 **Building** a Full-Stack Financial Decision Engine using Machine Learning, FastAPI, Streamlit.
+- 🌱 **Always learning** more about system architecture, backend optimization, and machine learning models.
+
+---
+
+### ⚡ Beyond the Code
+- 🏀 **On the Court:** I'm a huge basketball fan, whether I'm watching the game, checking player stats, or getting shots up at my local courts.
+- 📈 **Exploring Finance:** I love diving into financial markets, fintech trends, and investing strategies (which actually inspired my ML Financial Decision Engine project!).
+- 🏎️ **Talking Motorsports:** Being on the Formula Racing team means I'm always down to geek out over cars and F1 races.
+- 🎵 **Vibing to Music:** I run on good playlists during late-night coding sessions. Always open to music recommendations!
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| <a href="https://github.com/harrepk/harrepk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harrepk&repo=harrepk&theme=radical" alt="Financial Engine"></a> | **Financial Machine Learning Pipeline**<br>Engineered a scalable full-stack software infrastructure utilizing FastAPI, Streamlit, and Scikit-Learn to deploy predictive ML models and real-time data pipelines. |
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MATLAB](https://img.shields.io/badge/matlab-%23e16737.svg?style=for-the-badge&logo=matlab&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**  
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Tools & Embedded**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-323330?style=for-the-badge)
+![SoC Architecture](https://img.shields.io/badge/SoC_Architecture-2B3A42?style=for-the-badge)
+![Communication Protocols](https://img.shields.io/badge/I2C%20/%20UART%20/%20SPI%20/%20CAN-00599C?style=for-the-badge)
+---
+
+### 📫 Let's Connect!
+
+I'm always open to chatting about software development, the latest basketball trades, or new internship opportunities.
+
+- 💼 **LinkedIn:** [linkedin.com/in/harre-prakash-kumar](https://www.linkedin.com/in/harre-prakash-kumar/)
+- 📧 **Email:** [hprakash@torontomu.ca](mailto:hprakash@torontomu.ca)
