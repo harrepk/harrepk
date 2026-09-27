@@ -8,6 +8,9 @@ I'm a Computer Engineering student at Toronto Metropolitan University who loves 
 
 🎯 **Currently looking for Software Engineering and Embedded Software Internships for Summer 2027!**
 
+- 💼 **LinkedIn:** [linkedin.com/in/harre-prakash-kumar](https://www.linkedin.com/in/harre-prakash-kumar/)
+- 📧 **Email:** [hprakash@torontomu.ca](mailto:hprakash@torontomu.ca)
+
 ---
 
 ### 🚀 What I'm Up To
@@ -23,14 +26,6 @@ I'm a Computer Engineering student at Toronto Metropolitan University who loves 
 - 📈 **Exploring Finance:** I love diving into financial markets, fintech trends, and investing strategies (which actually inspired my ML Financial Decision Engine project!).
 - 🏎️ **Talking Motorsports:** Being on the Formula Racing team means I'm always down to geek out over cars and F1 races.
 - 🎵 **Vibing to Music:** I run on good playlists during late-night coding sessions. Always open to music recommendations!
-
----
-
-### 🏆 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| <a href="https://github.com/harrepk/harrepk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harrepk&repo=harrepk&theme=radical" alt="Financial Engine"></a> | **Financial Machine Learning Pipeline**<br>Engineered a scalable full-stack software infrastructure utilizing FastAPI, Streamlit, and Scikit-Learn to deploy predictive ML models and real-time data pipelines. |
 
 ---
 
@@ -65,9 +60,16 @@ I'm a Computer Engineering student at Toronto Metropolitan University who loves 
 ![Communication Protocols](https://img.shields.io/badge/I2C%20/%20UART%20/%20SPI%20/%20CAN-00599C?style=for-the-badge)
 ---
 
+### 🏆 Featured Projects
+
+| Project | Description |
+|:---:|---|
+| <a href="https://github.com/harrepk/Full-Stack-Financial-Decision-Engine"><img src="https://img.icons8.com/color/96/code.png" width="70" alt="Project Icon"><br><b>Financial Engine</b></a> | **Financial Machine Learning Pipeline**<br>Engineered a scalable full-stack software infrastructure utilizing FastAPI, Streamlit, and Scikit-Learn to deploy predictive ML models and real-time data pipelines. |
+
+---
 ### 📫 Let's Connect!
 
 I'm always open to chatting about software development, the latest basketball trades, or new internship opportunities.
 
-- 💼 **LinkedIn:** [linkedin.com/in/harre-prakash-kumar](https://www.linkedin.com/in/harre-prakash-kumar/)
-- 📧 **Email:** [hprakash@torontomu.ca](mailto:hprakash@torontomu.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harre-prakash-kumar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hprakash@torontomu.ca)
