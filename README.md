@@ -46,7 +46,7 @@ I'm a Computer Engineering student at Toronto Metropolitan University who loves 
 
 | Project | Description |
 |:---:|---|
-| <a href="https://github.com/harrepk/Full-Stack-Financial-Decision-Engine"><img src="https://img.icons8.com/color/96/code.png" width="70" alt="Project Icon"><br><b>Financial Engine</b></a> | **Financial Machine Learning Pipeline**<br>Engineered a scalable full-stack software infrastructure utilizing FastAPI, Streamlit, and Scikit-Learn to deploy predictive ML models and real-time data pipelines. |
+| <a href="https://github.com/harrepk/Financial-Decision-Engine"><img src="https://img.icons8.com/color/96/code.png" width="70" alt="Project Icon"><br><b>Financial Engine</b></a> | **Financial Machine Learning Pipeline**<br>Engineered a scalable full-stack software infrastructure utilizing FastAPI, Streamlit, and Scikit-Learn to deploy predictive ML models and real-time data pipelines. |
 
 ---
 
