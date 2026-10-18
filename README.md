@@ -12,14 +12,16 @@ I'm a Computer Engineering student at Toronto Metropolitan University who loves 
 - 📧 **Email:** [hprakash@torontomu.ca](mailto:hprakash@torontomu.ca)
 - 📄 **Resume:** [Harre Prakash Kumar Resume](https://github.com/user-attachments/files/32708420/Harre_Prakash_Kumar-Resume.pdf)
 
-
 ---
 
-### 🚀 What I'm Up To
-- 🤖 **Software Engineer** for the TMU MetFIRST Robotics Team, programming control logic and data processing pipelines.
-- 🏎️ **Embedded Software Member** on the TMU Formula Racing Team, writing C/C++ software for vehicles.
-- 💻 **Building** a Full-Stack Financial Decision Engine using Machine Learning, FastAPI, Streamlit.
-- 🌱 **Always learning** more about system architecture, backend optimization, and machine learning models.
+### 🏆 Featured Projects
+
+| Project | Description |
+|:---:|---|
+| <a href="https://github.com/harrepk/Financial-Decision-Engine"><img src="https://img.icons8.com/color/96/code.png" width="70" alt="Project Icon"><br><b>Financial Engine</b></a> | **Financial Machine Learning Pipeline**<br>Engineered a scalable full-stack software infrastructure utilizing FastAPI, Streamlit, and Scikit-Learn to deploy predictive ML models and real-time data pipelines. |
+| <a href="https://github.com/harrepk/Custom-FPGA-ALU-Processor-Datapath-VHDL"><img src="https://img.icons8.com/color/96/processor.png" width="70" alt="Project Icon"><br><b>FPGA ALU Datapath</b></a> | **8-bit FSM-Controlled ALU on FPGA**<br>Designed a modular processor datapath in VHDL where a finite state machine and one-hot decoder drive an 8-bit ALU through 9 operations. Verified it with self-checking ModelSim testbenches and deployed it on an Altera DE2 (Cyclone II) using Quartus II. |
+| <a href="https://github.com/harrepk/circuit-builder-java"><img src="https://img.icons8.com/color/96/electronics.png" width="70" alt="Project Icon"><br><b>Circuit Builder</b></a> | **Text-to-SPICE Circuit Netlist Generator**<br>Built an object-oriented Java tool that turns simple text commands into simulation-ready SPICE netlists, using an abstract component hierarchy, automatic per-type numbering with HashMaps, and JUnit tests checked against reference output. |
+| <a href="https://github.com/harrepk/delivery-cost-estimator-java"><img src="https://img.icons8.com/color/96/delivery.png" width="70" alt="Project Icon"><br><b>Delivery Cost Estimator</b></a> | **Inheritance-Based Shipping Price Calculator**<br>Modelled standard, express and international parcel pricing in Java through a three-level class hierarchy, where each subclass extends its parent's cost with `super` calls, plus input validation and polymorphic pricing. |
 
 ---
 
@@ -42,14 +44,14 @@ I'm a Computer Engineering student at Toronto Metropolitan University who loves 
 
 ---
 
-### 🏆 Featured Projects
-
-| Project | Description |
-|:---:|---|
-| <a href="https://github.com/harrepk/Financial-Decision-Engine"><img src="https://img.icons8.com/color/96/code.png" width="70" alt="Project Icon"><br><b>Financial Engine</b></a> | **Financial Machine Learning Pipeline**<br>Engineered a scalable full-stack software infrastructure utilizing FastAPI, Streamlit, and Scikit-Learn to deploy predictive ML models and real-time data pipelines. |
-| <a href="https://github.com/harrepk/Custom-FPGA-ALU-Processor-Datapath-VHDL"><img src="https://img.icons8.com/color/96/processor.png" width="70" alt="Project Icon"><br><b>FPGA ALU Datapath</b></a> | **8-bit FSM-Controlled ALU on FPGA**<br>Designed a modular processor datapath in VHDL where a finite state machine and one-hot decoder drive an 8-bit ALU through 9 operations. Verified it with self-checking ModelSim testbenches and deployed it on an Altera DE2 (Cyclone II) using Quartus II. |
+### 🚀 What I'm Up To
+- 🤖 **Software Engineer** for the TMU MetFIRST Robotics Team, programming control logic and data processing pipelines.
+- 🏎️ **Embedded Software Member** on the TMU Formula Racing Team, writing C/C++ software for vehicles.
+- 💻 **Building** a Full-Stack Financial Decision Engine using Machine Learning, FastAPI, Streamlit.
+- 🌱 **Always learning** more about system architecture, backend optimization, and machine learning models.
 
 ---
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages**  
