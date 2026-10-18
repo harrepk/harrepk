@@ -1,7 +1,7 @@
 # Hi, I'm Harre! 👋
 
 <a href="https://github.com/harrepk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=58A6FF&center=false&vCenter=false&multiline=true&width=600&height=140&lines=Computer+Engineering+Student+%40+TMU;Software+%26+Backend+Developer;Embedded+Systems+Enthusiast;Seeking+Summer+2027+Internships!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=58A6FF&center=false&vCenter=false&multiline=true&width=600&height=140&lines=Computer+Engineering+Student+%40+TMU;Software+%26+Backend+Developer;Embedded+SW+and+Machine+Learning+Enthusiast;Seeking+Summer+2027+Internships!" alt="Typing SVG" />
 </a>
 
 I'm a Computer Engineering student at Toronto Metropolitan University who loves working on machine learning projects, developing high-quality software systems, and embedded software. Whether it's writing memory-safe C/C++ code for robotics or building full-stack machine learning APIs, I enjoy creating systems that are fast, reliable, and scalable.
