@@ -47,9 +47,9 @@ I'm a Computer Engineering student at Toronto Metropolitan University who loves 
 | Project | Description |
 |:---:|---|
 | <a href="https://github.com/harrepk/Financial-Decision-Engine"><img src="https://img.icons8.com/color/96/code.png" width="70" alt="Project Icon"><br><b>Financial Engine</b></a> | **Financial Machine Learning Pipeline**<br>Engineered a scalable full-stack software infrastructure utilizing FastAPI, Streamlit, and Scikit-Learn to deploy predictive ML models and real-time data pipelines. |
+| <a href="https://github.com/harrepk/Custom-FPGA-ALU-Processor-Datapath-VHDL"><img src="https://img.icons8.com/color/96/processor.png" width="70" alt="Project Icon"><br><b>FPGA ALU Datapath</b></a> | **8-bit FSM-Controlled ALU on FPGA**<br>Designed a modular processor datapath in VHDL where a finite state machine and one-hot decoder drive an 8-bit ALU through 9 operations. Verified it with self-checking ModelSim testbenches and deployed it on an Altera DE2 (Cyclone II) using Quartus II. |
 
 ---
-
 ### 🛠️ Tech Stack & Tools
 
 **Languages**  
